@@ -5,3 +5,8 @@ matplotlib
 dill
 python-dotenv
 pymongo
+setuptools
+certifi
+
+
+#-e .
